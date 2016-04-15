@@ -1,0 +1,6 @@
+# cargo build artifacts
+target
+target-install
+
+# lock files for deterministic builds, not needed in libraries
+Cargo.lock
